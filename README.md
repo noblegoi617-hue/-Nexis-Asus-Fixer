@@ -4,7 +4,7 @@
 > 
 > *Developed by Knowx* 👨‍💻
 
-![Nexis Repair Tool]({641C45EA-D2A1-4742-8D6E-B26ECCDD6D99}.png)
+
 
 Nexis Asus Fixer (Nexis Repair Tool) is a specialized, automated utility designed to permanently resolve the notorious WiFi and Bluetooth disappearing issues on ASUS laptops. Built with a premium GUI, it seamlessly diagnoses, resets, and installs the necessary drivers without requiring complex manual troubleshooting.
 
