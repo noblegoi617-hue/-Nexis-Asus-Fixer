@@ -40,7 +40,7 @@ Instead of forcing users to download multiple heavy driver packages manually, Ne
 
 ## ⚠️ Disclaimer
 
-This tool is specifically optimized for ASUS laptops experiencing network hardware detection issues. While it is completely safe to use, the developer (**Knowx**) is not responsible for any unforeseen system errors. Ensure your Windows OS is fully updated!
+This tool is specifically optimized for ASUS laptops experiencing network hardware detection issues. While it is completely safe to use, the developer is not responsible for any unforeseen system errors. Ensure your Windows OS is fully updated!
 
 ---
 
